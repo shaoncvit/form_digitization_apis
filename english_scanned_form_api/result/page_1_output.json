@@ -1,0 +1,662 @@
+{
+    "Heading": [
+        {
+            "bbox": {
+                "bbox_x": 643,
+                "bbox_y": 43,
+                "bbox_width": 374,
+                "bbox_height": 32
+            },
+            "text": "ADMISSION RECORD"
+        }
+    ],
+    "sub_head_1": [
+        {
+            "bbox": {
+                "bbox_x": 717,
+                "bbox_y": 90,
+                "bbox_width": 218,
+                "bbox_height": 29
+            },
+            "text": "Arbors at Carroll"
+        }
+    ],
+    "sub_head_2": [
+        {
+            "bbox": {
+                "bbox_x": 699,
+                "bbox_y": 126,
+                "bbox_width": 274,
+                "bbox_height": 32
+            },
+            "text": "3680 Dolson Ct NW"
+        }
+    ],
+    "sub_head_3": [
+        {
+            "bbox": {
+                "bbox_x": 679,
+                "bbox_y": 164,
+                "bbox_width": 311,
+                "bbox_height": 31
+            },
+            "text": "Carroll, OH 43112-9721"
+        }
+    ],
+    "sub_head_4": [
+        {
+            "bbox": {
+                "bbox_x": 686,
+                "bbox_y": 202,
+                "bbox_width": 286,
+                "bbox_height": 34
+            },
+            "text": "TEL: (740) 654-0641"
+        }
+    ],
+    "sub_head_5": [
+        {
+            "bbox": {
+                "bbox_x": 691,
+                "bbox_y": 243,
+                "bbox_width": 277,
+                "bbox_height": 23
+            },
+            "text": "FAX: (740) 654-3896"
+        }
+    ],
+    "sub_head_6": [
+        {
+            "bbox": {
+                "bbox_x": 1390,
+                "bbox_y": 286,
+                "bbox_width": 248,
+                "bbox_height": 31
+            },
+            "text": "Apr 4, 2024 11:45:37 ET"
+        }
+    ],
+    "para_1": [
+        {
+            "bbox": {
+                "bbox_x": 688,
+                "bbox_y": 317,
+                "bbox_width": 324,
+                "bbox_height": 32
+            },
+            "text": "RESIDENT INFORMATION"
+        }
+    ],
+    "key_1": [
+        {
+            "bbox": {
+                "bbox_x": 54,
+                "bbox_y": 353,
+                "bbox_width": 387,
+                "bbox_height": 29
+            },
+            "text": "Resident Name"
+        }
+    ],
+    "val_1": [
+        {
+            "bbox": {
+                "bbox_x": 58,
+                "bbox_y": 383,
+                "bbox_width": 391,
+                "bbox_height": 27
+            },
+            "text": "Dunfee, Allen L."
+        }
+    ],
+    "key_2": [
+        {
+            "bbox": {
+                "bbox_x": 445,
+                "bbox_y": 355,
+                "bbox_width": 189,
+                "bbox_height": 22
+            },
+            "text": "Preferred Name"
+        }
+    ],
+    "val_2": [
+        {
+            "bbox": {
+                "bbox_x": 450,
+                "bbox_y": 382,
+                "bbox_width": 184,
+                "bbox_height": 27
+            },
+            "text": ""
+        }
+    ],
+    "key_3": [
+        {
+            "bbox": {
+                "bbox_x": 637,
+                "bbox_y": 351,
+                "bbox_width": 119,
+                "bbox_height": 25
+            },
+            "text": "Unit"
+        }
+    ],
+    "val_3": [
+        {
+            "bbox": {
+                "bbox_x": 636,
+                "bbox_y": 382,
+                "bbox_width": 122,
+                "bbox_height": 27
+            },
+            "text": "[North Short|"
+        }
+    ],
+    "key_4": [
+        {
+            "bbox": {
+                "bbox_x": 756,
+                "bbox_y": 349,
+                "bbox_width": 191,
+                "bbox_height": 27
+            },
+            "text": "Room / Bed"
+        }
+    ],
+    "val_4": [
+        {
+            "bbox": {
+                "bbox_x": 758,
+                "bbox_y": 380,
+                "bbox_width": 193,
+                "bbox_height": 31
+            },
+            "text": "157-2"
+        }
+    ],
+    "key_5": [
+        {
+            "bbox": {
+                "bbox_x": 951,
+                "bbox_y": 351,
+                "bbox_width": 175,
+                "bbox_height": 29
+            },
+            "text": "Admission Date"
+        }
+    ],
+    "val_5": [
+        {
+            "bbox": {
+                "bbox_x": 949,
+                "bbox_y": 382,
+                "bbox_width": 182,
+                "bbox_height": 27
+            },
+            "text": "| 03/21/2024 |"
+        }
+    ],
+    "key_6": [
+        {
+            "bbox": {
+                "bbox_x": 1129,
+                "bbox_y": 355,
+                "bbox_width": 185,
+                "bbox_height": 25
+            },
+            "text": "Init.Adm.Date"
+        }
+    ],
+    "val_6": [
+        {
+            "bbox": {
+                "bbox_x": 1131,
+                "bbox_y": 380,
+                "bbox_width": 187,
+                "bbox_height": 29
+            },
+            "text": "03/21/2024"
+        }
+    ],
+    "key_7": [
+        {
+            "bbox": {
+                "bbox_x": 1316,
+                "bbox_y": 353,
+                "bbox_width": 184,
+                "bbox_height": 27
+            },
+            "text": "Orig.Adm.Date"
+        }
+    ],
+    "val_7": [
+        {
+            "bbox": {
+                "bbox_x": 1320,
+                "bbox_y": 380,
+                "bbox_width": 184,
+                "bbox_height": 29
+            },
+            "text": "03/21/2024"
+        }
+    ],
+    "key_8": [
+        {
+            "bbox": {
+                "bbox_x": 1498,
+                "bbox_y": 351,
+                "bbox_width": 140,
+                "bbox_height": 29
+            },
+            "text": "Resident#"
+        }
+    ],
+    "val_8": [
+        {
+            "bbox": {
+                "bbox_x": 1501,
+                "bbox_y": 383,
+                "bbox_width": 139,
+                "bbox_height": 29
+            },
+            "text": "72422"
+        }
+    ],
+    "key_9": [
+        {
+            "bbox": {
+                "bbox_x": 51,
+                "bbox_y": 412,
+                "bbox_width": 691,
+                "bbox_height": 23
+            },
+            "text": "Previous address"
+        }
+    ],
+    "val_9": [
+        {
+            "bbox": {
+                "bbox_x": 56,
+                "bbox_y": 437,
+                "bbox_width": 691,
+                "bbox_height": 31
+            },
+            "text": "847 4th St, Lancaster, OH, 43130"
+        }
+    ],
+    "key_10": [
+        {
+            "bbox": {
+                "bbox_x": 747,
+                "bbox_y": 412,
+                "bbox_width": 205,
+                "bbox_height": 27
+            },
+            "text": "Previous Phone#"
+        }
+    ],
+    "val_10": [
+        {
+            "bbox": {
+                "bbox_x": 745,
+                "bbox_y": 441,
+                "bbox_width": 203,
+                "bbox_height": 25
+            },
+            "text": "| (740) 785-6286"
+        }
+    ],
+    "key_11": [
+        {
+            "bbox": {
+                "bbox_x": 954,
+                "bbox_y": 410,
+                "bbox_width": 688,
+                "bbox_height": 29
+            },
+            "text": "Legal Mailing address"
+        }
+    ],
+    "val_11": [
+        {
+            "bbox": {
+                "bbox_x": 952,
+                "bbox_y": 441,
+                "bbox_width": 691,
+                "bbox_height": 27
+            },
+            "text": "Same as Previous Address"
+        }
+    ],
+    "key_12": [
+        {
+            "bbox": {
+                "bbox_x": 56,
+                "bbox_y": 470,
+                "bbox_width": 79,
+                "bbox_height": 25
+            },
+            "text": "Sex"
+        }
+    ],
+    "val_12": [
+        {
+            "bbox": {
+                "bbox_x": 54,
+                "bbox_y": 497,
+                "bbox_width": 81,
+                "bbox_height": 31
+            },
+            "text": ""
+        }
+    ],
+    "key_13": [
+        {
+            "bbox": {
+                "bbox_x": 135,
+                "bbox_y": 470,
+                "bbox_width": 157,
+                "bbox_height": 27
+            },
+            "text": "Birthdate"
+        }
+    ],
+    "val_13": [
+        {
+            "bbox": {
+                "bbox_x": 135,
+                "bbox_y": 495,
+                "bbox_width": 153,
+                "bbox_height": 34
+            },
+            "text": "03/29/1959"
+        }
+    ],
+    "key_14": [
+        {
+            "bbox": {
+                "bbox_x": 290,
+                "bbox_y": 468,
+                "bbox_width": 81,
+                "bbox_height": 29
+            },
+            "text": "Age"
+        }
+    ],
+    "val_14": [
+        {
+            "bbox": {
+                "bbox_x": 288,
+                "bbox_y": 499,
+                "bbox_width": 83,
+                "bbox_height": 29
+            },
+            "text": ""
+        }
+    ],
+    "key_15": [
+        {
+            "bbox": {
+                "bbox_x": 369,
+                "bbox_y": 466,
+                "bbox_width": 263,
+                "bbox_height": 31
+            },
+            "text": "Martial Status"
+        }
+    ],
+    "val_15": [
+        {
+            "bbox": {
+                "bbox_x": 371,
+                "bbox_y": 500,
+                "bbox_width": 259,
+                "bbox_height": 29
+            },
+            "text": "Never married"
+        }
+    ],
+    "key_16": [
+        {
+            "bbox": {
+                "bbox_x": 634,
+                "bbox_y": 468,
+                "bbox_width": 256,
+                "bbox_height": 29
+            },
+            "text": "Religion"
+        }
+    ],
+    "val_16": [
+        {
+            "bbox": {
+                "bbox_x": 634,
+                "bbox_y": 500,
+                "bbox_width": 257,
+                "bbox_height": 29
+            },
+            "text": "None"
+        }
+    ],
+    "key_17": [
+        {
+            "bbox": {
+                "bbox_x": 893,
+                "bbox_y": 466,
+                "bbox_width": 306,
+                "bbox_height": 32
+            },
+            "text": "Race"
+        }
+    ],
+    "val_17": [
+        {
+            "bbox": {
+                "bbox_x": 891,
+                "bbox_y": 499,
+                "bbox_width": 308,
+                "bbox_height": 27
+            },
+            "text": "White"
+        }
+    ],
+    "key_18": [
+        {
+            "bbox": {
+                "bbox_x": 1197,
+                "bbox_y": 466,
+                "bbox_width": 252,
+                "bbox_height": 32
+            },
+            "text": "Occupation(s)"
+        }
+    ],
+    "val_18": [
+        {
+            "bbox": {
+                "bbox_x": 1201,
+                "bbox_y": 500,
+                "bbox_width": 252,
+                "bbox_height": 29
+            },
+            "text": ""
+        }
+    ],
+    "key_19": [
+        {
+            "bbox": {
+                "bbox_x": 1449,
+                "bbox_y": 468,
+                "bbox_width": 196,
+                "bbox_height": 31
+            },
+            "text": "Primary Lang"
+        }
+    ],
+    "val_19": [
+        {
+            "bbox": {
+                "bbox_x": 1447,
+                "bbox_y": 500,
+                "bbox_width": 198,
+                "bbox_height": 27
+            },
+            "text": "English"
+        }
+    ],
+    "key_20": [
+        {
+            "bbox": {
+                "bbox_x": 56,
+                "bbox_y": 526,
+                "bbox_width": 443,
+                "bbox_height": 31
+            },
+            "text": "Admitted From"
+        }
+    ],
+    "val_20": [
+        {
+            "bbox": {
+                "bbox_x": 54,
+                "bbox_y": 554,
+                "bbox_width": 446,
+                "bbox_height": 29
+            },
+            "text": "Acute care hospital"
+        }
+    ],
+    "key_21": [
+        {
+            "bbox": {
+                "bbox_x": 499,
+                "bbox_y": 529,
+                "bbox_width": 446,
+                "bbox_height": 27
+            },
+            "text": "Admission Location"
+        }
+    ],
+    "val_21": [
+        {
+            "bbox": {
+                "bbox_x": 502,
+                "bbox_y": 554,
+                "bbox_width": 445,
+                "bbox_height": 31
+            },
+            "text": "FAIRFIELD MEDICAL CENTER"
+        }
+    ],
+    "key_22": [
+        {
+            "bbox": {
+                "bbox_x": 943,
+                "bbox_y": 526,
+                "bbox_width": 265,
+                "bbox_height": 31
+            },
+            "text": "Birth Place"
+        }
+    ],
+    "val_22": [
+        {
+            "bbox": {
+                "bbox_x": 949,
+                "bbox_y": 554,
+                "bbox_width": 259,
+                "bbox_height": 29
+            },
+            "text": ""
+        }
+    ],
+    "key_23": [
+        {
+            "bbox": {
+                "bbox_x": 1206,
+                "bbox_y": 527,
+                "bbox_width": 248,
+                "bbox_height": 31
+            },
+            "text": "Citizenship"
+        }
+    ],
+    "val_23": [
+        {
+            "bbox": {
+                "bbox_x": 1206,
+                "bbox_y": 558,
+                "bbox_width": 247,
+                "bbox_height": 27
+            },
+            "text": "U.S."
+        }
+    ],
+    "key_24": [
+        {
+            "bbox": {
+                "bbox_x": 1451,
+                "bbox_y": 526,
+                "bbox_width": 194,
+                "bbox_height": 31
+            },
+            "text": "Maiden name"
+        }
+    ],
+    "val_24": [
+        {
+            "bbox": {
+                "bbox_x": 1451,
+                "bbox_y": 556,
+                "bbox_width": 193,
+                "bbox_height": 31
+            },
+            "text": ""
+        }
+    ],
+    "key_25": [
+        {
+            "bbox": {
+                "bbox_x": 60,
+                "bbox_y": 587,
+                "bbox_width": 392,
+                "bbox_height": 25
+            },
+            "text": "Medicare (HIC)#"
+        }
+    ],
+    "val_25": [
+        {
+            "bbox": {
+                "bbox_x": 54,
+                "bbox_y": 612,
+                "bbox_width": 398,
+                "bbox_height": 34
+            },
+            "text": ""
+        }
+    ],
+    "key_26": [
+        {
+            "bbox": {
+                "bbox_x": 459,
+                "bbox_y": 583,
+                "bbox_width": 392,
+                "bbox_height": 31
+            },
+            "text": "Medicare Beneficiary ID"
+        }
+    ],
+    "val_26": [
+        {
+            "bbox": {
+                "bbox_x": 456,
+                "bbox_y": 614,
+                "bbox_width": 396,
+                "bbox_height": 29
+            },
+            "text": "8C62M20TF19"
+        }
+    ]
+}

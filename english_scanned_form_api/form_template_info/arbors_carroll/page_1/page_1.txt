@@ -1,0 +1,35 @@
+ADMISSION RECORD
+Arbors at Carroll
+3680 Dolson Ct NW
+Carroll, OH 43112-9721
+TEL: (740) 654-0641
+FAX: (740) 654-3896
+Apr 4, 2024 11:45:37 ET
+RESIDENT INFORMATION
+Resident Name
+Preferred Name
+Unit
+Room / Bed
+Admission Date
+Init.Adm.Date
+Orig.Adm.Date
+Resident#
+Previous address
+Previous Phone#
+Legal Mailing address
+Sex
+Birthdate
+Age
+Martial Status
+Religion
+Race
+Occupation(s)
+Primary Lang
+Admitted From
+Admission Location
+Birth Place
+Citizenship
+Maiden name
+Medicare (HIC)#
+Medicare Beneficiary ID
+

@@ -1,0 +1,31 @@
+ADMISSION RECORD
+Laurels of Health
+May 10, 2024 12:48:02 ET
+RESIDENT INFORMATION
+Resident Name
+Preferred Name
+Unit
+Room / Bed
+Admission Date
+Init.Adm.Date
+Orig.Adm.Date
+Resident#
+Previous address
+Previous Phone#
+Legal Mailing address
+Sex
+Birthdate
+Age
+Martial Status
+Religion
+Race
+Occupation(s)
+Primary Lang
+Admitted From
+Admission Location
+Birth Place
+Citizenship
+Maiden name
+Medicare (HIC)#
+Medicare Beneficiary ID
+

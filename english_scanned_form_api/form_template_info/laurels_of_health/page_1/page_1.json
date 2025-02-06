@@ -1,0 +1,618 @@
+{
+    "Heading": [
+        {
+            "bbox": {
+                "bbox_x": 652,
+                "bbox_y": 80,
+                "bbox_width": 386,
+                "bbox_height": 41
+            },
+            "text": "ADMISSION RECORD"
+        }
+    ],
+    "sub_head_1": [
+        {
+            "bbox": {
+                "bbox_x": 726,
+                "bbox_y": 121,
+                "bbox_width": 234,
+                "bbox_height": 41
+            },
+            "text": "Laurels of Health"
+        }
+    ],
+    "sub_head_2": [
+        {
+            "bbox": {
+                "bbox_x": 1376,
+                "bbox_y": 319,
+                "bbox_width": 270,
+                "bbox_height": 35
+            },
+            "text": "May 10, 2024 12:48:02 ET"
+        }
+    ],
+    "para_1": [
+        {
+            "bbox": {
+                "bbox_x": 700,
+                "bbox_y": 352,
+                "bbox_width": 331,
+                "bbox_height": 35
+            },
+            "text": "RESIDENT INFORMATION"
+        }
+    ],
+    "key_1": [
+        {
+            "bbox": {
+                "bbox_x": 71,
+                "bbox_y": 390,
+                "bbox_width": 385,
+                "bbox_height": 23
+            },
+            "text": "Resident Name"
+        }
+    ],
+    "val_1": [
+        {
+            "bbox": {
+                "bbox_x": 68,
+                "bbox_y": 416,
+                "bbox_width": 387,
+                "bbox_height": 28
+            },
+            "text": "user"
+        }
+    ],
+    "key_2": [
+        {
+            "bbox": {
+                "bbox_x": 458,
+                "bbox_y": 385,
+                "bbox_width": 190,
+                "bbox_height": 28
+            },
+            "text": "Preferred Name"
+        }
+    ],
+    "val_2": [
+        {
+            "bbox": {
+                "bbox_x": 460,
+                "bbox_y": 418,
+                "bbox_width": 188,
+                "bbox_height": 28
+            },
+            "text": "user"
+        }
+    ],
+    "key_3": [
+        {
+            "bbox": {
+                "bbox_x": 651,
+                "bbox_y": 385,
+                "bbox_width": 113,
+                "bbox_height": 28
+            },
+            "text": "Unit"
+        }
+    ],
+    "val_3": [
+        {
+            "bbox": {
+                "bbox_x": 651,
+                "bbox_y": 413,
+                "bbox_width": 115,
+                "bbox_height": 33
+            },
+            "text": "user"
+        }
+    ],
+    "key_4": [
+        {
+            "bbox": {
+                "bbox_x": 768,
+                "bbox_y": 387,
+                "bbox_width": 190,
+                "bbox_height": 28
+            },
+            "text": "Room / Bed"
+        }
+    ],
+    "val_4": [
+        {
+            "bbox": {
+                "bbox_x": 770,
+                "bbox_y": 416,
+                "bbox_width": 190,
+                "bbox_height": 28
+            },
+            "text": "user"
+        }
+    ],
+    "key_5": [
+        {
+            "bbox": {
+                "bbox_x": 963,
+                "bbox_y": 390,
+                "bbox_width": 183,
+                "bbox_height": 26
+            },
+            "text": "Admission Date"
+        }
+    ],
+    "val_5": [
+        {
+            "bbox": {
+                "bbox_x": 961,
+                "bbox_y": 418,
+                "bbox_width": 183,
+                "bbox_height": 28
+            },
+            "text": "user"
+        }
+    ],
+    "key_6": [
+        {
+            "bbox": {
+                "bbox_x": 1148,
+                "bbox_y": 390,
+                "bbox_width": 181,
+                "bbox_height": 23
+            },
+            "text": "Init.Adm.Date"
+        }
+    ],
+    "val_6": [
+        {
+            "bbox": {
+                "bbox_x": 1146,
+                "bbox_y": 416,
+                "bbox_width": 181,
+                "bbox_height": 31
+            },
+            "text": "user"
+        }
+    ],
+    "key_7": [
+        {
+            "bbox": {
+                "bbox_x": 1331,
+                "bbox_y": 390,
+                "bbox_width": 183,
+                "bbox_height": 31
+            },
+            "text": "Orig.Adm.Date"
+        }
+    ],
+    "val_7": [
+        {
+            "bbox": {
+                "bbox_x": 1326,
+                "bbox_y": 418,
+                "bbox_width": 186,
+                "bbox_height": 33
+            },
+            "text": "user"
+        }
+    ],
+    "key_8": [
+        {
+            "bbox": {
+                "bbox_x": 1507,
+                "bbox_y": 392,
+                "bbox_width": 148,
+                "bbox_height": 26
+            },
+            "text": "Resident#"
+        }
+    ],
+    "val_8": [
+        {
+            "bbox": {
+                "bbox_x": 1512,
+                "bbox_y": 418,
+                "bbox_width": 141,
+                "bbox_height": 33
+            },
+            "text": "user"
+        }
+    ],
+    "key_9": [
+        {
+            "bbox": {
+                "bbox_x": 65,
+                "bbox_y": 448,
+                "bbox_width": 693,
+                "bbox_height": 28
+            },
+            "text": "Previous address"
+        }
+    ],
+    "val_9": [
+        {
+            "bbox": {
+                "bbox_x": 72,
+                "bbox_y": 474,
+                "bbox_width": 688,
+                "bbox_height": 31
+            },
+            "text": "user"
+        }
+    ],
+    "key_10": [
+        {
+            "bbox": {
+                "bbox_x": 758,
+                "bbox_y": 450,
+                "bbox_width": 207,
+                "bbox_height": 26
+            },
+            "text": "Previous Phone#"
+        }
+    ],
+    "val_10": [
+        {
+            "bbox": {
+                "bbox_x": 758,
+                "bbox_y": 476,
+                "bbox_width": 204,
+                "bbox_height": 28
+            },
+            "text": "user"
+        }
+    ],
+    "key_11": [
+        {
+            "bbox": {
+                "bbox_x": 965,
+                "bbox_y": 448,
+                "bbox_width": 690,
+                "bbox_height": 33
+            },
+            "text": "Legal Mailing address"
+        }
+    ],
+    "val_11": [
+        {
+            "bbox": {
+                "bbox_x": 962,
+                "bbox_y": 478,
+                "bbox_width": 693,
+                "bbox_height": 31
+            },
+            "text": "user"
+        }
+    ],
+    "key_12": [
+        {
+            "bbox": {
+                "bbox_x": 67,
+                "bbox_y": 504,
+                "bbox_width": 82,
+                "bbox_height": 31
+            },
+            "text": "Sex"
+        }
+    ],
+    "val_12": [
+        {
+            "bbox": {
+                "bbox_x": 69,
+                "bbox_y": 532,
+                "bbox_width": 85,
+                "bbox_height": 33
+            },
+            "text": "user"
+        }
+    ],
+    "key_13": [
+        {
+            "bbox": {
+                "bbox_x": 149,
+                "bbox_y": 504,
+                "bbox_width": 155,
+                "bbox_height": 28
+            },
+            "text": "Birthdate"
+        }
+    ],
+    "val_13": [
+        {
+            "bbox": {
+                "bbox_x": 151,
+                "bbox_y": 532,
+                "bbox_width": 148,
+                "bbox_height": 31
+            },
+            "text": "user"
+        }
+    ],
+    "key_14": [
+        {
+            "bbox": {
+                "bbox_x": 299,
+                "bbox_y": 504,
+                "bbox_width": 82,
+                "bbox_height": 28
+            },
+            "text": "Age"
+        }
+    ],
+    "val_14": [
+        {
+            "bbox": {
+                "bbox_x": 299,
+                "bbox_y": 537,
+                "bbox_width": 85,
+                "bbox_height": 28
+            },
+            "text": "user"
+        }
+    ],
+    "key_15": [
+        {
+            "bbox": {
+                "bbox_x": 381,
+                "bbox_y": 506,
+                "bbox_width": 258,
+                "bbox_height": 31
+            },
+            "text": "Martial Status"
+        }
+    ],
+    "val_15": [
+        {
+            "bbox": {
+                "bbox_x": 379,
+                "bbox_y": 537,
+                "bbox_width": 263,
+                "bbox_height": 26
+            },
+            "text": "user"
+        }
+    ],
+    "key_16": [
+        {
+            "bbox": {
+                "bbox_x": 642,
+                "bbox_y": 506,
+                "bbox_width": 261,
+                "bbox_height": 26
+            },
+            "text": "Religion"
+        }
+    ],
+    "val_16": [
+        {
+            "bbox": {
+                "bbox_x": 644,
+                "bbox_y": 537,
+                "bbox_width": 256,
+                "bbox_height": 26
+            },
+            "text": "user"
+        }
+    ],
+    "key_17": [
+        {
+            "bbox": {
+                "bbox_x": 905,
+                "bbox_y": 506,
+                "bbox_width": 303,
+                "bbox_height": 26
+            },
+            "text": "Race"
+        }
+    ],
+    "val_17": [
+        {
+            "bbox": {
+                "bbox_x": 900,
+                "bbox_y": 537,
+                "bbox_width": 310,
+                "bbox_height": 28
+            },
+            "text": "user"
+        }
+    ],
+    "key_18": [
+        {
+            "bbox": {
+                "bbox_x": 1210,
+                "bbox_y": 506,
+                "bbox_width": 249,
+                "bbox_height": 31
+            },
+            "text": "Occupation(s)"
+        }
+    ],
+    "val_18": [
+        {
+            "bbox": {
+                "bbox_x": 1208,
+                "bbox_y": 537,
+                "bbox_width": 254,
+                "bbox_height": 28
+            },
+            "text": "user"
+        }
+    ],
+    "key_19": [
+        {
+            "bbox": {
+                "bbox_x": 1462,
+                "bbox_y": 506,
+                "bbox_width": 188,
+                "bbox_height": 31
+            },
+            "text": "Primary Lang"
+        }
+    ],
+    "val_19": [
+        {
+            "bbox": {
+                "bbox_x": 1459,
+                "bbox_y": 539,
+                "bbox_width": 193,
+                "bbox_height": 28
+            },
+            "text": "user"
+        }
+    ],
+    "key_20": [
+        {
+            "bbox": {
+                "bbox_x": 65,
+                "bbox_y": 562,
+                "bbox_width": 447,
+                "bbox_height": 28
+            },
+            "text": "Admitted From"
+        }
+    ],
+    "val_20": [
+        {
+            "bbox": {
+                "bbox_x": 70,
+                "bbox_y": 594,
+                "bbox_width": 443,
+                "bbox_height": 27
+            },
+            "text": "user"
+        }
+    ],
+    "key_21": [
+        {
+            "bbox": {
+                "bbox_x": 513,
+                "bbox_y": 562,
+                "bbox_width": 443,
+                "bbox_height": 32
+            },
+            "text": "Admission Location"
+        }
+    ],
+    "val_21": [
+        {
+            "bbox": {
+                "bbox_x": 513,
+                "bbox_y": 597,
+                "bbox_width": 446,
+                "bbox_height": 27
+            },
+            "text": "user"
+        }
+    ],
+    "key_22": [
+        {
+            "bbox": {
+                "bbox_x": 956,
+                "bbox_y": 564,
+                "bbox_width": 265,
+                "bbox_height": 24
+            },
+            "text": "Birth Place"
+        }
+    ],
+    "val_22": [
+        {
+            "bbox": {
+                "bbox_x": 962,
+                "bbox_y": 589,
+                "bbox_width": 257,
+                "bbox_height": 35
+            },
+            "text": "user"
+        }
+    ],
+    "key_23": [
+        {
+            "bbox": {
+                "bbox_x": 1221,
+                "bbox_y": 567,
+                "bbox_width": 240,
+                "bbox_height": 27
+            },
+            "text": "Citizenship"
+        }
+    ],
+    "val_23": [
+        {
+            "bbox": {
+                "bbox_x": 1221,
+                "bbox_y": 597,
+                "bbox_width": 238,
+                "bbox_height": 27
+            },
+            "text": "user"
+        }
+    ],
+    "key_24": [
+        {
+            "bbox": {
+                "bbox_x": 1464,
+                "bbox_y": 562,
+                "bbox_width": 189,
+                "bbox_height": 32
+            },
+            "text": "Maiden name"
+        }
+    ],
+    "val_24": [
+        {
+            "bbox": {
+                "bbox_x": 1464,
+                "bbox_y": 594,
+                "bbox_width": 189,
+                "bbox_height": 30
+            },
+            "text": "user"
+        }
+    ],
+    "key_25": [
+        {
+            "bbox": {
+                "bbox_x": 65,
+                "bbox_y": 622,
+                "bbox_width": 404,
+                "bbox_height": 21
+            },
+            "text": "Medicare (HIC)#"
+        }
+    ],
+    "val_25": [
+        {
+            "bbox": {
+                "bbox_x": 67,
+                "bbox_y": 646,
+                "bbox_width": 396,
+                "bbox_height": 36
+            },
+            "text": "user"
+        }
+    ],
+    "key_26": [
+        {
+            "bbox": {
+                "bbox_x": 463,
+                "bbox_y": 622,
+                "bbox_width": 401,
+                "bbox_height": 26
+            },
+            "text": "Medicare Beneficiary ID"
+        }
+    ],
+    "val_26": [
+        {
+            "bbox": {
+                "bbox_x": 466,
+                "bbox_y": 651,
+                "bbox_width": 394,
+                "bbox_height": 28
+            },
+            "text": "user"
+        }
+    ]
+}
