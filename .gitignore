@@ -4,3 +4,17 @@ english_scanned_form_api/__pycache__
 english_scanned_form_api/detected_bbox
 english_scanned_form_api/temp
 english_scanned_form_api/result
+asha_digitization_api/__pycache__
+asha_digitization_api/aligned_images
+asha_digitization_api/aligned_version1
+asha_digitization_api/CRAFT-pytorch
+asha_digitization_api/extra
+asha_digitization_api/langClassModel
+asha_digitization_api/form_template_info
+asha_digitization_api/masked_output
+asha_digitization_api/result
+asha_digitization_api/small_result
+asha_digitization_api/temp
+asha_digitization_api/tick_template
+asha_digitization_api/U-2-Net
+asha_digitization_api/upload_forms
