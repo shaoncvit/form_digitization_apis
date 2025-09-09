@@ -19,12 +19,12 @@ This API allows you to upload an image (JPG, PNG, etc.), automatically runs the 
 
 Once the server is running:
 
-- Swagger UI → [http://10.10.16.13/docs](http://localhost:8000/docs)
-- ReDoc → [http://10.10.16.13/redoc](http://localhost:8000/redoc)
+- Swagger UI → [http://10.10.16.13:8000/docs#/default/infer_image_infer_post](http://10.10.16.13:8000/docs#/default/infer_image_infer_post)
+<!-- - ReDoc → [http://10.10.16.13/redoc](http://localhost:8000/redoc) -->
 
 ## Use curl
 
-curl -X POST "http://10.10.16.13:8000/infer" \
+curl -X POST "http://10.10.16.13:8000/docs#/default/infer_image_infer_post" \
   -H "accept: application/json" \
   -H "Content-Type: multipart/form-data" \
   -F "file=@your_image.jpg"
